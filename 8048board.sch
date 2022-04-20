@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:clock-cache
+LIBS:8048board-cache
 EELAYER 29 0
 EELAYER END
 $Descr User 8268 5827
 encoding utf-8
 Sheet 1 1
-Title "Clock"
+Title "8048 board"
 Date "2019-07-19"
 Rev "1"
 Comp ""
